@@ -31,4 +31,4 @@ VARIABLES:
 STATISTICAL ANALYSIS:
 Linear regression was used to look for correlations between elevation as an independent variable, and photosynthetic rate, transpiration rate, and WUEi, as the response variables. Nested ANOVAs were used to look for significant effects of Site, Tree(Site), and Leaf(Tree(Site)) on each leaf functional trait; photosynthetic rate, transpiration rate, and WUEi. Tukey HSD tests were used to compute confidence intervals for differences between mean leaf functional traits in pairwise comparisons of Sites. 
 
-This project is a collaboration with Grace Dougherty, Grace Zaboski, and Alisa Hove.
+This project is a collaboration with Grace Dougherty, Grace Zaboski, Eric Griffin, and Alisa Hove.
